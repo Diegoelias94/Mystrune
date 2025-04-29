@@ -273,7 +273,7 @@ const todeaFallsMap = '<img src="cities/mystrune/mystrune.svg"></img>'
 
 
 const mystrunePopup =                                                                                                                                               
-`<div class="customPopup"><h1>City Map</h1><a href=${mystruneMap} target=_blank"><img style="max-height:500px;max-width:500px;" src=${mystruneMap}></a></img><div><h1>Mystrune</h1><p><strong>Población:</strong> 87,592 hab., <strong>Tamaño:</strong> 2,826 acres<br /><strong>Demografía:</strong> Humano (70%), Mediano (20%), Dracónido (3%), Tiefling (1%), Enano (1%), Elfo (1%), Semielfo (1%), Semiorco (1%), Tabaxi (1%), Gnomo (1%)</p><p>Establecida sobre una costa besada por zafiros, donde las brumas se aferran a menudo como velos espectrales en el abrazo del amanecer, la ciudad de Mystrune se alza – un testimonio tanto de opulencia como del perdurable susurro de leyendas olvidadas. Esta extensa ciudad capital es un tapiz tejido con los hilos de innumerables sueños, cuyas grandiosas avenidas resuenan con la sinfonía del comercio, el arte y secretos susurrados transportados por la brisa acariciada por el mar. Cada deleite imaginable se encuentra en el vibrante corazón de la ciudad de Mystrune: desde vitrales celestiales que iluminan pináculos opulentos hasta calles empedradas que susurran relatos de emperadores olvidados desde hace mucho tiempo.</p><p>La ciudad de Mystrune se halla bajo el dominio del Rey Theron Brightspire, un soberano humano cuya estirpe se remonta a incontables generaciones de fuerza humana y victorias bendecidas por lo celestial.</p><p>A la edad de 48 años, Theron encarna la imagen misma de la fuerza y la realeza, un reinado cimentado en una tradición inquebrantable y aderezado con un toque de reforma audaz. Imparte respeto no solo mediante una fuerza férrea (aunque su Guardia Legionaria Aurum se mantiene siempre vigilante), sino a través de un carisma cultivado que atrae lealtad y disipa los murmullos del descontento. Conocido por empuñar la legendaria espada larga “La Gracia de Aurum”, imbuida de magia ancestral que, según se dice, otorga visiones de glorias olvidadas, Theron equilibra la tradición con un agudo sentido del progreso, fomentando el prestigio de la ciudad de Mystrune como un faro del logro humano y un punto de encuentro, tejido como un tapiz, de diversas culturas dentro de su reino. Prioriza grandiosos proyectos de infraestructura, impulsando el corazón económico de la ciudad mientras asegura que sus defensas se mantengan impenetrables frente a cualquier aspirante a usurpador o a la oscuridad invasora más allá del velo. Su reinado susurra ambición celestial y una voluntad resuelta de ver ver florecer la ciudad de Mystrune como testimonio del legado humano y la maestría en el escenario mundial.</p><h2>Puntos de Interés</h2><h3>Tiendas Generales:</h3><ul><li><strong>El Emporio de Scriven:</strong> Propiedad de Elara Scriven, una ágil mujer elfa de 230 años, este refugio para los amantes de la buena comida rebosa de especias exóticas, aceites culinarios relucientes e ingredientes míticos que se dice poseen propiedades restauradoras.</li><li><strong>El Engranaje y el Cartógrafo:</strong> Dirigida por Grungle Ironforge, un robusto artesano enano de 185 años, la tienda rebosa de engranajes intrincados, brújulas celestiales y mapas que representan islas inexploradas en el borde de los mundos conocidos.</li><li><strong>Seda y Hechizo:</strong> Lysandra Nightshade, una elegante tejedora tiefling de 127 años, selecciona hilos imbuídos con sutiles encantamientos – desde susurros de serena calma hasta sedas traslúcidas tejidas con destellos proféticos.</li><li><strong>La Menagerie Curiosa:</strong> El Magistrado Thorne Briarwood, un erudito humano de 58 años y renombrado naturalista, preside esta menagerie donde criaturas exóticas como salamandras de fuego, lirios cantores y halcones tocados por la luna se comercian con una pizca de reverencia erudita.</li><li><strong>La Armería Aetherbright:</strong> Dirigida por Kendra Brightforge, una herrera humana de 42 años reconocida por su innovación, la armería ofrece armas besadas por fuego celestial, cuyos filos destellan tenuemente con una energía de otro mundo.</li></ul><h3>Herrerías:</h3><ul><li><strong>Los Yunques de Grimforge:</strong> Olav Grimforge, un guerrero enano curtido de 254 años, forja armaduras de placas inquebrantables y espadas largas magistralmente elaboradas con runas que susurran relatos de antiguas batallas.</li><li><strong>La Forja Whisperwind:</strong> Lyra Moonwhisper, una elegante artesana elfa de 168 años, fabrica ganzúas delicadas, armamento de asedio finamente ajustado y hojas ceremoniales ornamentadas imbuidas con un resplandor celestial.</li><li><strong>La Herrería Dragonfire:</strong> Bardin Ironmaw, un temible herrero semi-orco de 147 años, talla armas a partir de huesos de dragón recuperados – cuyos filos se calientan con un ardor persistente y dracónico. Bestial, pero bello.</li><li><strong>El Yunque del Ruiseñor:</strong> Maeve Nightingale, una ágil inventora y herrera gnoma de 83 años, combina arte e ingenio, creando instrumentos musicales que estallan en ráfagas de fuerza concusiva cuando se tocan en armonías específicas.</li><li><strong>La Fundición Corazón de Forja:</strong> Corvus Tideborn, un estoico artesano humano de 49 años con una conexión a las profundidades, forja armas a partir de tesoros hundidos recuperados – imbuidas de una energía oceánica inquietante pero seductora.</li></ul><h3>Templos:</h3><ul><li><strong>Templo de Selûne:</strong> La Suma Sacerdotisa Aella Silvermoon, una elegante elfa lunar devota a la diosa de la paz y la protección, de 245 años, preside este templo que cuenta con un observatorio astronómico para trazar constelaciones en sus jardines iluminados por la luna.</li><li><strong>Santuario de Moradin:</strong> El Clérigo Maestro Gareth Stonehammer, un devoto sacerdote enano de 178 años, custodia la forja sagrada en este templo dedicado a la fuerza y la artesanía. Los visitantes dejan ofrendas de herramientas finamente elaboradas, bendecidas con una resiliencia divina.</li><li><strong>Collegium de Eldath:</strong> Elowyn Whisperwind, una enigmática druida elfa de 215 años, supervisa un santuario donde los susurros del Bosque se entrelazan con lecciones arcanas y hierbas curativas se cultivan en muros vivientes.</li><li><strong>Culto de Tymora:</strong> Jade Whisperglimmer, una astuta pícara mediana convertida en sacerdotisa de 68 años, preside un templo cuyas consultas de adivinación y juegos de azar se rumorea están bendecidos por la voluble diosa de la suerte.</li><li><strong>El Bastión del Guardián de los Juramentos:</strong> La Mariscal Valeria Stormbreak, una paladina humana y líder de la guardia de la ciudad de 42 años, rige los juramentos sagrados en este bastión dedicado a la fuerza, la justicia y a una vigilancia inquebrantable.</li></ul><h3>Tabernas y Posadas:</h3><ul><li><strong>La Sirena Salada:</strong> Fiona Brightsail, una ardiente capitana pirata convertida en posadera de 52 años, dirige su establecimiento con risas y un carácter áspero pero cálido. Un espíritu pirata y mariscos frescos son sus señas de identidad.</li><li><strong>Melodías a la Luz de la Luna:</strong> Eamon Bardbright, un carismático bardo humano de 38 años, encanta a los comensales con melodías e historias en su posada adornada con tapices celestiales tejidos con sedas besadas por el polvo de estrellas.</li><li><strong>El Nido del Grifo:</strong> Aeris Skyborn, una elegante elfa alada con una sabiduría forjada en los años (265), recibe a los huéspedes en su nido en la cima de la torre más alta de la ciudad – un refugio donde constelaciones celestiales se observan a través de vitrales y secretos susurrados se mezclan con la luz de las estrellas.</li><li><strong>El Hogar de la Forja Enana:</strong> Brogni Stonebeard, un jovial maestro cervecero enano de 130 años, mantiene una taberna bulliciosa renombrada por sus potentes brebajes y las ruidosas historias contadas en jarros en un ambiente reminiscentemente forjado.</li><li><strong>Sauces Susurrantes:</strong> La otra empresa de Lysandra Nightshade – esta posada está envuelta en secretos, con habitaciones de las que se dice que susurros encantados revelan verdades ocultas si se escucha lo suficientemente atento.</li></ul><h3>Otros Puntos de Interés:</h3><ul><li><strong>El Observatorio Espectral:</strong> Encumbrado en lo alto de una torre del reloj coronada por un espejo celestial en constante movimiento, otorga visión hacia planos astrales distantes cuando la ciudad se envuelve en la niebla matutina – los visitantes podrían presenciar apariciones fugaces y susurros de más allá.</li><li><strong>El Bosque Susurrante:</strong> Un oasis oculto en las profundidades de la ciudad donde antiguos árboles laten con una luz esmeralda viviente; se rumorea que concede deseos si se dejan ofrendas susurradas en sus ramas cubiertas de musgo.</li><li><strong>El Argentotheum:</strong> Este enigmático museo alberga artefactos de imperios olvidados y maravillas celestiales, con salones plateados que resuenan con los murmullos de glorias pasadas y custodiados por una silenciosa esfinge de piedra – los secretos en su interior pueden cambiar el destino de quien los descubre.</li><li><strong>El Bazar Astral:</strong> Un mercado clandestino que aparece únicamente bajo el resplandeciente ciclo lunar noctis, donde ingredientes arcanos, poderosos encantamientos y saberes prohibidos se intercambian abiertamente bajo un cielo salpicado de constelaciones jamás vistas en otro lugar.</li><li><strong>La Fortaleza Dragonspire:</strong> Las leyendas cuentan que esta colosal torre de vigilancia fue alguna vez el hogar de un anciano dragón adormecido; hoy es un centro de aprendizaje arcano donde magos maestros se sumergen en textos prohibidos y se buscan susurros olvidados de lenguas dracónicas.</li></ul><p>Dentro de la ciudad de Mystrune, la vida se despliega como un intrincado tapiz tejido con hilos de asombro, fe y el duradero atractivo de secretos que esperan ser desvelados.</p></div></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>City Map</h1><a href=${mystruneMap} target=_blank"><img style="max-height:500px;max-width:500px;" src=${mystruneMap}></a></img><div><h1>Mystrune</h1><p><strong>Población:</strong> 87,592 hab., <strong>Tamaño:</strong> 2,826 acres<br /><strong>Demografía:</strong> Humano (70%), Mediano (20%), Dracónido (3%), Tiefling (1%), Enano (1%), Elfo (1%), Semielfo (1%), Semiorco (1%), Tabaxi (1%), Gnomo (1%)</p><p>Establecida sobre una costa besada por zafiros, donde las brumas se aferran a menudo como velos espectrales en el abrazo del amanecer, la ciudad de Mystrune se alza – un testimonio tanto de opulencia como del perdurable susurro de leyendas olvidadas. Esta extensa ciudad capital es un tapiz tejido con los hilos de innumerables sueños, cuyas grandiosas avenidas resuenan con la sinfonía del comercio, el arte y secretos susurrados transportados por la brisa acariciada por el mar. Cada deleite imaginable se encuentra en el vibrante corazón de la ciudad de Mystrune: desde vitrales celestiales que iluminan pináculos opulentos hasta calles empedradas que susurran relatos de emperadores olvidados desde hace mucho tiempo.</p><p>La ciudad de Mystrune se halla bajo el dominio del Rey Theron Brightspire, un soberano humano cuya estirpe se remonta a incontables generaciones de fuerza humana y victorias bendecidas por lo celestial.</p><p>A la edad de 48 años, Theron encarna la imagen misma de la fuerza y la realeza, un reinado cimentado en una tradición inquebrantable y aderezado con un toque de reforma audaz. Imparte respeto no solo mediante una fuerza férrea (aunque su Guardia Legionaria Aurum se mantiene siempre vigilante), sino a través de un carisma cultivado que atrae lealtad y disipa los murmullos del descontento. Conocido por empuñar la legendaria espada larga “La Gracia de Aurum”, imbuida de magia ancestral que, según se dice, otorga visiones de glorias olvidadas, Theron equilibra la tradición con un agudo sentido del progreso, fomentando el prestigio de la ciudad de Mystrune como un faro del logro humano y un punto de encuentro, tejido como un tapiz, de diversas culturas dentro de su reino. Prioriza grandiosos proyectos de infraestructura, impulsando el corazón económico de la ciudad mientras asegura que sus defensas se mantengan impenetrables frente a cualquier aspirante a usurpador o a la oscuridad invasora más allá del velo. Su reinado susurra ambición celestial y una voluntad resuelta de ver ver florecer la ciudad de Mystrune como testimonio del legado humano y la maestría en el escenario mundial.</p><h2>Puntos de Interés</h2><h3>Tiendas Generales:</h3><ul><li><strong>El Emporio de Scriven:</strong> Propiedad de Elara Scriven, una ágil mujer elfa de 230 años, este refugio para los amantes de la buena comida rebosa de especias exóticas, aceites culinarios relucientes e ingredientes míticos que se dice poseen propiedades restauradoras.</li><li><strong>El Engranaje y el Cartógrafo:</strong> Dirigida por Grungle Ironforge, un robusto artesano enano de 185 años, la tienda rebosa de engranajes intrincados, brújulas celestiales y mapas que representan islas inexploradas en el borde de los mundos conocidos.</li><li><strong>Seda y Hechizo:</strong> Lysandra Nightshade, una elegante tejedora tiefling de 127 años, selecciona hilos imbuídos con sutiles encantamientos – desde susurros de serena calma hasta sedas traslúcidas tejidas con destellos proféticos.</li><li><strong>La Menagerie Curiosa:</strong> El Magistrado Thorne Briarwood, un erudito humano de 58 años y renombrado naturalista, preside esta menagerie donde criaturas exóticas como salamandras de fuego, lirios cantores y halcones tocados por la luna se comercian con una pizca de reverencia erudita.</li><li><strong>La Armería Aetherbright:</strong> Dirigida por Kendra Brightforge, una herrera humana de 42 años reconocida por su innovación, la armería ofrece armas besadas por fuego celestial, cuyos filos destellan tenuemente con una energía de otro mundo.</li></ul><h3>Herrerías:</h3><ul><li><strong>Los Yunques de Grimforge:</strong> Olav Grimforge, un guerrero enano curtido de 254 años, forja armaduras de placas inquebrantables y espadas largas magistralmente elaboradas con runas que susurran relatos de antiguas batallas.</li><li><strong>La Forja Whisperwind:</strong> Lyra Moonwhisper, una elegante artesana elfa de 168 años, fabrica ganzúas delicadas, armamento de asedio finamente ajustado y hojas ceremoniales ornamentadas imbuidas con un resplandor celestial.</li><li><strong>La Herrería Dragonfire:</strong> Bardin Ironmaw, un temible herrero semi-orco de 147 años, talla armas a partir de huesos de dragón recuperados – cuyos filos se calientan con un ardor persistente y dracónico. Bestial, pero bello.</li><li><strong>El Yunque del Ruiseñor:</strong> Maeve Nightingale, una ágil inventora y herrera gnoma de 83 años, combina arte e ingenio, creando instrumentos musicales que estallan en ráfagas de fuerza concusiva cuando se tocan en armonías específicas.</li><li><strong>La Fundición Corazón de Forja:</strong> Corvus Tideborn, un estoico artesano humano de 49 años con una conexión a las profundidades, forja armas a partir de tesoros hundidos recuperados – imbuidas de una energía oceánica inquietante pero seductora.</li></ul><h3>Templos:</h3><ul><li><strong>Templo de Selûne:</strong> La Suma Sacerdotisa Aella Silvermoon, una elegante elfa lunar devota a la diosa de la paz y la protección, de 245 años, preside este templo que cuenta con un observatorio astronómico para trazar constelaciones en sus jardines iluminados por la luna.</li><li><strong>Santuario de Moradin:</strong> El Clérigo Maestro Gareth Stonehammer, un devoto sacerdote enano de 178 años, custodia la forja sagrada en este templo dedicado a la fuerza y la artesanía. Los visitantes dejan ofrendas de herramientas finamente elaboradas, bendecidas con una resiliencia divina.</li><li><strong>Collegium de Eldath:</strong> Elowyn Whisperwind, una enigmática druida elfa de 215 años, supervisa un santuario donde los susurros del Bosque se entrelazan con lecciones arcanas y hierbas curativas se cultivan en muros vivientes.</li><li><strong>Culto de Tymora:</strong> Jade Whisperglimmer, una astuta pícara mediana convertida en sacerdotisa de 68 años, preside un templo cuyas consultas de adivinación y juegos de azar se rumorea están bendecidos por la voluble diosa de la suerte.</li><li><strong>El Bastión del Guardián de los Juramentos:</strong> La Mariscal Valeria Stormbreak, una paladina humana y líder de la guardia de la ciudad de 42 años, rige los juramentos sagrados en este bastión dedicado a la fuerza, la justicia y a una vigilancia inquebrantable.</li></ul><h3>Tabernas y Posadas:</h3><ul><li><strong>La Sirena Salada:</strong> Fiona Brightsail, una ardiente capitana pirata convertida en posadera de 52 años, dirige su establecimiento con risas y un carácter áspero pero cálido. Un espíritu pirata y mariscos frescos son sus señas de identidad.</li><li><strong>Melodías a la Luz de la Luna:</strong> Eamon Bardbright, un carismático bardo humano de 38 años, encanta a los comensales con melodías e historias en su posada adornada con tapices celestiales tejidos con sedas besadas por el polvo de estrellas.</li><li><strong>El Nido del Grifo:</strong> Aeris Skyborn, una elegante elfa alada con una sabiduría forjada en los años (265), recibe a los huéspedes en su nido en la cima de la torre más alta de la ciudad – un refugio donde constelaciones celestiales se observan a través de vitrales y secretos susurrados se mezclan con la luz de las estrellas.</li><li><strong>El Hogar de la Forja Enana:</strong> Brogni Stonebeard, un jovial maestro cervecero enano de 130 años, mantiene una taberna bulliciosa renombrada por sus potentes brebajes y las ruidosas historias contadas en jarros en un ambiente reminiscentemente forjado.</li><li><strong>Sauces Susurrantes:</strong> La otra empresa de Lysandra Nightshade – esta posada está envuelta en secretos, con habitaciones de las que se dice que susurros encantados revelan verdades ocultas si se escucha lo suficientemente atento.</li></ul><h3>Otros Puntos de Interés:</h3><ul><li><strong>El Observatorio Espectral:</strong> Encumbrado en lo alto de una torre del reloj coronada por un espejo celestial en constante movimiento, otorga visión hacia planos astrales distantes cuando la ciudad se envuelve en la niebla matutina – los visitantes podrían presenciar apariciones fugaces y susurros de más allá.</li><li><strong>El Bosque Susurrante:</strong> Un oasis oculto en las profundidades de la ciudad donde antiguos árboles laten con una luz esmeralda viviente; se rumorea que concede deseos si se dejan ofrendas susurradas en sus ramas cubiertas de musgo.</li><li><strong>El Argentotheum:</strong> Este enigmático museo alberga artefactos de imperios olvidados y maravillas celestiales, con salones plateados que resuenan con los murmullos de glorias pasadas y custodiados por una silenciosa esfinge de piedra – los secretos en su interior pueden cambiar el destino de quien los descubre.</li><li><strong>El Bazar Astral:</strong> Un mercado clandestino que aparece únicamente bajo el resplandeciente ciclo lunar noctis, donde ingredientes arcanos, poderosos encantamientos y saberes prohibidos se intercambian abiertamente bajo un cielo salpicado de constelaciones jamás vistas en otro lugar.</li><li><strong>La Fortaleza Dragonspire:</strong> Las leyendas cuentan que esta colosal torre de vigilancia fue alguna vez el hogar de un anciano dragón adormecido; hoy es un centro de aprendizaje arcano donde magos maestros se sumergen en textos prohibidos y se buscan susurros olvidados de lenguas dracónicas.</li></ul><p>Dentro de la ciudad de Mystrune, la vida se despliega como un intrincado tapiz tejido con hilos de asombro, fe y el duradero atractivo de secretos que esperan ser desvelados.</p></div></div>`;
 
 const thriceDrownedPopup =
 `<div class="customPopup" style="min-width:500px;"><h1>City Map</h1><a href=${thriceDrownedMap} target="_blank"><img style="max-height:500px;max-width:500px;" src=${thriceDrownedMap}></a></img><div><h1>Tres Veces Ahogado</h1><p><strong>Población</strong>: 3,249, Size: 105 acres<br /><strong>Demografía</strong>: Humano (76%), Elfo (9%), Mediano (5%), Enano (3%), Gnomo (3%), Semielfo (2%), Semiorco (1%), Dracónido (1%)</p><p><strong>Tres Veces Ahogado</strong> se alza donde convergen dos poderosos ríos: el Silvertear y el Duskfall. Su nombre, una ironía sardónica hacia su historia de haber sido inundada rotundamente <em>dos veces</em> y reconstruida cada vez, ha evolucionado hasta convertirse en un dicho local que habla menos de melancolía y más de un espíritu inquebrantable. Gobernada por el pragmático y carismático Lord Yrmennoth Lamot, cuyo linaje se remonta a sus fundadores, la milicia de 200 miembros es tanto una guardia comunitaria unida como una fuerza de protección local.</p><p>Tres Veces Ahogado puede haber sido moldeada por el agua, pero su espíritu permanece indomable. En su corazón, entre calles empedradas y plazas de mercado bañadas por el sol, la vida florece:</p><h2>Lugares Destacados:</h2><ol><li><strong>Provisiones Sunforge</strong>: Un emporio cavernoso de bienes generales con un laberinto de delicias importadas y necesidades mundanas, desde sedas élficas hasta herramientas enanas. Cada estante cuenta una historia de conexiones lejanas.</li><li><strong>El Yunque de Plata</strong>: Donde el clamor del martillo sobre el acero entona una sinfonía de creación. Borin Ironforge (un enano robusto cuya barba tiene más fragmentos de metal que cabello, y cuya mirada refleja el fuego de las forjas ancestrales) transforma el hierro en obras maestras, desde utensilios sencillos hasta relicarios sagrados.</li><li><strong>El Dragón Sumergido</strong>: Una taberna bulliciosa donde se mezclan relatos de antiguas inundaciones, aventuras lejanas y profecías susurradas con el fuerte aroma de la cerveza local.</li><li><strong>El Faro en Reposo</strong>: Un santuario para viajeros cansados, gestionado por la gentil medioelfa Elara Nightshade (de lengua plateada que calma almas inquietas y cuyo hogar atrae a todos con su calor).</li><li><strong>Hilos Finos</strong>: Una modesta tienda dirigida por Tifawyn Fimblenamble (una joven gnoma), que ofrece los mejores productos a precios moderados para los locales, aunque desconfía de los forasteros: <em>"¡ni siquiera se han ahogado una vez!"</em>.</li></ol><p><strong>Templo</strong>: Un santuario subterráneo tallado en roca viva, dedicado a <strong>Tyr, Señor de la Justicia Forjada</strong>. En sus salas sagradas, las plegarias resuenan en paredes de obsidiana pulida, y destellos de luz celestial emergen de pozos sagrados. El Sumo Sacerdote Caelon Stoneheart (un enano estoico de voz atronadora) guía a los fieles por caminos de acción justa y fortalece su espíritu ante las adversidades.</p><h2>Personajes Notables:</h2><ol><li><strong>Eldrin Briarwood</strong> (cartógrafo elfo y cronista de tierras olvidadas): Un nómada de corazón, cuyos mapas guardan secretos de civilizaciones perdidas. Consulta al Templo de los Senderos Profundos para planear sus expediciones.</li><li><strong>Coanys</strong> (medioelfa bardo cuyas melodías entretejen alegría y dolor): Su voz arrastra a los oyentes con historias de héroes de eras pasadas y amores perdidos en el campo.</li><li><strong>Silas Brassboots</strong> (gnomo inventor cuyos artefactos son tan ingeniosos como impredecibles): Sueña con mecanismos alimentados por energía celestial y trabaja incansable en su taller sobre <em>"El Alambique Susurrante"</em>. Muchos creen que sus creaciones podrían salvar a la ciudad de su destino acuático.</li><li><strong>Moira "Tideborn" Silverstream</strong> (halfling cartógrafa y guardiana de conocimiento local): Lee los susurros de la historia en las corrientes fluviales, ofreciendo consejos y visiones del pasado y futuro de la ciudad. Su vida parece fluir al ritmo de los ríos.</li></ol></div></div>`;
@@ -330,576 +330,576 @@ const havencrestPopup =
 // Wessengard
 
 const tiefenbachPopup =
-`<div class="customPopup"><h1>Tiefenbach</h1>You have no information about this place yet...</div></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Tiefenbach</h1>You have no information about this place yet...</div></div>`;
 
 const thalgrunPopup =
-`<div class="customPopup"><h1>Thalgrün</h1>You have no information about this place yet...</div></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Thalgrün</h1>You have no information about this place yet...</div></div>`;
 
 const schwarzwaldPopup =
-`<div class="customPopup"><h1>Schwarzwald</h1>You have no information about this place yet...</div></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Schwarzwald</h1>You have no information about this place yet...</div></div>`;
 
 const konigsruhPopup =
-`<div class="customPopup"><h1>Königsruh</h1>You have no information about this place yet...</div></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Königsruh</h1>You have no information about this place yet...</div></div>`;
 
 const nordmarkPopup =
-`<div class="customPopup"><h1>Nordmark</h1>You have no information about this place yet...</div></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Nordmark</h1>You have no information about this place yet...</div></div>`;
 
 const meerwatchPopup =
-`<div class="customPopup"><h1>Meerwatch</h1>You have no information about this place yet...</div></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Meerwatch</h1>You have no information about this place yet...</div></div>`;
 
 // Gharnata
 
 const amunsRestPopup =
-`<div class="customPopup"><h1>Amun's Rest</h1>You have no information about this place yet...</div></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Amun's Rest</h1>You have no information about this place yet...</div></div>`;
 
 const laylaqanPopup =
-`<div class="customPopup"><h1>Laylaqan</h1>You have no information about this place yet...</div></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Laylaqan</h1>You have no information about this place yet...</div></div>`;
 
 const arkzumPopup =
-`<div class="customPopup"><h1>Arkzum</h1>You have no information about this place yet...</div></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Arkzum</h1>You have no information about this place yet...</div></div>`;
 
 
 // Harrowvale
 
 const hochburgPopup =
-`<div class="customPopup"><h1>Hochburg</h1>You have no information about this place yet...</div></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Hochburg</h1>You have no information about this place yet...</div></div>`;
 
 const eisenhafenPopup =
-`<div class="customPopup"><h1>Eisenhafen</h1>You have no information about this place yet...</div></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Eisenhafen</h1>You have no information about this place yet...</div></div>`;
 
 const grimholtPopup =
-`<div class="customPopup"><h1>Grimholt</h1>You have no information about this place yet...</div></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Grimholt</h1>You have no information about this place yet...</div></div>`;
 
 const drachenfelsPopup =
-`<div class="customPopup"><h1>Drachenfels</h1>You have no information about this place yet...</div></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Drachenfels</h1>You have no information about this place yet...</div></div>`;
 
 const wolfsgardPopup =
-`<div class="customPopup"><h1>Wolfsgard</h1>You have no information about this place yet...</div></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Wolfsgard</h1>You have no information about this place yet...</div></div>`;
 
 const newLendraPopup =
-`<div class="customPopup"><h1>New Lendra</h1>You have no information about this place yet...</div></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>New Lendra</h1>You have no information about this place yet...</div></div>`;
 
 const oldLendraPopup =
-`<div class="customPopup"><h1>Old Lendra</h1>You have no information about this place yet...</div></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Old Lendra</h1>You have no information about this place yet...</div></div>`;
 
 
 // Castelbruzzo
 
 const portoFioraPopup =
-`<div class="customPopup"><h1>Porto Fiora</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Porto Fiora</h1><p>You have no information about this place yet...</p></div>`;
 
 const sienaraPopup =
-`<div class="customPopup"><h1>Sienara</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Sienara</h1><p>You have no information about this place yet...</p></div>`;
 
 const valtameriPopup =
-`<div class="customPopup"><h1>Valtameri</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Valtameri</h1><p>You have no information about this place yet...</p></div>`;
 
 const fiumerossoPopup = 
-`<div class="customPopup"><h1>Fiumerosso</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Fiumerosso</h1><p>You have no information about this place yet...</p></div>`;
 
 const torvoPopup =
-`<div class="customPopup"><h1>Torvo</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Torvo</h1><p>You have no information about this place yet...</p></div>`;
 
 const lunaraCastraPopup =
-`<div class="customPopup"><h1>Lunara Castra</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Lunara Castra</h1><p>You have no information about this place yet...</p></div>`;
 
 const vallegraziaPopup =
-`<div class="customPopup"><h1>Vallegrazia</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Vallegrazia</h1><p>You have no information about this place yet...</p></div>`;
 
 
 // Himawara Popups
 
 const ryujinmaruPopup = 
-`<div class="customPopup"><h1>Ryujinmaru</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Ryujinmaru</h1><p>You have no information about this place yet...</p></div>`;
 
 const baiyuePopup = 
-`<div class="customPopup"><h1>Baiyue</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Baiyue</h1><p>You have no information about this place yet...</p></div>`;
 
 const jiangkazePopup = 
-`<div class="customPopup"><h1>Jiangkaze</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Jiangkaze</h1><p>You have no information about this place yet...</p></div>`;
 
 const tengrikhanPopup = 
-`<div class="customPopup"><h1>Tengrikhan</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Tengrikhan</h1><p>You have no information about this place yet...</p></div>`;
 
 const kagemyrPopup = 
-`<div class="customPopup"><h1>Kagemyr</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Kagemyr</h1><p>You have no information about this place yet...</p></div>`;
 
 // Lochlannar Popups
 
 const caerBranPopup = 
-`<div class="customPopup"><h1>Caer Bran</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Caer Bran</h1><p>You have no information about this place yet...</p></div>`;
 
 const brynTaraPopup = 
-`<div class="customPopup"><h1>Bryn Tara</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Bryn Tara</h1><p>You have no information about this place yet...</p></div>`;
 
 const erynDalePopup = 
-`<div class="customPopup"><h1>Eryn Dale</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Eryn Dale</h1><p>You have no information about this place yet...</p></div>`;
 
 const tirNaMarPopup = 
-`<div class="customPopup"><h1>Tir Na Mar</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Tir Na Mar</h1><p>You have no information about this place yet...</p></div>`;
 
 // Mercia's Reach Popups
 
 const lannarverthPopup = 
-`<div class="customPopup"><h1>Lannarverth</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Lannarverth</h1><p>You have no information about this place yet...</p></div>`;
 
 const tregorienPopup = 
-`<div class="customPopup"><h1>Tregorien</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Tregorien</h1><p>You have no information about this place yet...</p></div>`;
 
 const kerzhalPopup = 
-`<div class="customPopup"><h1>Kerzhal</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Kerzhal</h1><p>You have no information about this place yet...</p></div>`;
 
 
 // Vyrnirheim
 
 const helsvikPopup = 
-`<div class="customPopup"><h1>Helsvik</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Helsvik</h1><p>You have no information about this place yet...</p></div>`;
 
 const frostreachPopup = 
-`<div class="customPopup"><h1>Frostreach</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Frostreach</h1><p>You have no information about this place yet...</p></div>`;
 
 const haldrimsPyrePopup = 
-`<div class="customPopup"><h1>Haldrim's Pyre</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Haldrim's Pyre</h1><p>You have no information about this place yet...</p></div>`;
 
 const rimeforgePopup = 
-`<div class="customPopup"><h1>Rimeforge</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Rimeforge</h1><p>You have no information about this place yet...</p></div>`;
 
 const thaldrimPopup = 
-`<div class="customPopup"><h1>Thaldrim</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Thaldrim</h1><p>You have no information about this place yet...</p></div>`;
 
 const ravengardPopup = 
-`<div class="customPopup"><h1>Ravengard</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Ravengard</h1><p>You have no information about this place yet...</p></div>`;
 
 const vallengardePopup = 
-`<div class="customPopup"><h1>Vallengarde</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Vallengarde</h1><p>You have no information about this place yet...</p></div>`;
 
 const drangsaettrPopup = 
-`<div class="customPopup"><h1>Drangsaettr</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Drangsaettr</h1><p>You have no information about this place yet...</p></div>`;
 
 const brinjarsHoldPopup = 
-`<div class="customPopup"><h1>Brinjar's Hold</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Brinjar's Hold</h1><p>You have no information about this place yet...</p></div>`;
 
 const niflsteadPopup = 
-`<div class="customPopup"><h1>Niflestead</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Niflestead</h1><p>You have no information about this place yet...</p></div>`;
 
 const windermerePopup = 
-`<div class="customPopup"><h1>Windermere</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Windermere</h1><p>You have no information about this place yet...</p></div>`;
 
 const draugrvikPopup = 
-`<div class="customPopup"><h1>Draugrvik</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Draugrvik</h1><p>You have no information about this place yet...</p></div>`;
 
 const montelornePopup = 
-`<div class="customPopup"><h1>Montelorne</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Montelorne</h1><p>You have no information about this place yet...</p></div>`;
 
 const lorrenthalPopup = 
-`<div class="customPopup"><h1>Lorrenthal</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Lorrenthal</h1><p>You have no information about this place yet...</p></div>`;
 
 
 // Aesgareth Popups
 
 const skjornhaldPopup = 
-`<div class="customPopup"><h1>Skjornhald</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Skjornhald</h1><p>You have no information about this place yet...</p></div>`;
 
 const eyrunsteadPopup = 
-`<div class="customPopup"><h1>Eyrunstead</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Eyrunstead</h1><p>You have no information about this place yet...</p></div>`;
 
 const isfjornPopup = 
-`<div class="customPopup"><h1>Isfjorn</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Isfjorn</h1><p>You have no information about this place yet...</p></div>`;
 
 const thorvaaldPopup = 
-`<div class="customPopup"><h1>Thorvaald</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Thorvaald</h1><p>You have no information about this place yet...</p></div>`;
 
 const runestoneKeepPopup = 
-`<div class="customPopup"><h1>Runestone Keep</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Runestone Keep</h1><p>You have no information about this place yet...</p></div>`;
 
 const sternbjornKeepPopup = 
-`<div class="customPopup"><h1>Sternbjorn Keep</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Sternbjorn Keep</h1><p>You have no information about this place yet...</p></div>`;
 
 const frosthavenPopup = 
-`<div class="customPopup"><h1>Frosthaven</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Frosthaven</h1><p>You have no information about this place yet...</p></div>`;
 
 // Morrigan's Dominion Popups
 
 const dolmenwoodPopup = 
-`<div class="customPopup"><h1>Dolmenwood</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Dolmenwood</h1><p>You have no information about this place yet...</p></div>`;
 
 const aescburyPopup = 
-`<div class="customPopup"><h1>Aescbury</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Aescbury</h1><p>You have no information about this place yet...</p></div>`;
 
 const wychmerePopup = 
-`<div class="customPopup"><h1>Wychmere</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Wychmere</h1><p>You have no information about this place yet...</p></div>`;
 
 const dunMorriganPopup = 
-`<div class="customPopup"><h1>Dun Morrigan</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Dun Morrigan</h1><p>You have no information about this place yet...</p></div>`;
 
 const morlaixHollowPopup = 
-`<div class="customPopup"><h1>Morlaix Hollow</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Morlaix Hollow</h1><p>You have no information about this place yet...</p></div>`;
 
 const sceaftesburhPopup = 
-`<div class="customPopup"><h1>Sceaftesburh</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Sceaftesburh</h1><p>You have no information about this place yet...</p></div>`;
 
 const cynehelmPopup = 
-`<div class="customPopup"><h1>Cynehelm</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Cynehelm</h1><p>You have no information about this place yet...</p></div>`;
 
 // Vaelgrund Popups
 
 const vetrfjallPopup = 
-`<div class="customPopup"><h1>Vetrfjall</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Vetrfjall</h1><p>You have no information about this place yet...</p></div>`;
 
 const torvaenPopup = 
-`<div class="customPopup"><h1>Torvaen</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Torvaen</h1><p>You have no information about this place yet...</p></div>`;
 
 const bjarnholdPopup = 
-`<div class="customPopup"><h1>Bjarnhold</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Bjarnhold</h1><p>You have no information about this place yet...</p></div>`;
 
 const braemoorPopup = 
-`<div class="customPopup"><h1>Braemoor</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Braemoor</h1><p>You have no information about this place yet...</p></div>`;
 
 const vorthallPopup = 
-`<div class="customPopup"><h1>Vorthall</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Vorthall</h1><p>You have no information about this place yet...</p></div>`;
 
 const fenlowPopup = 
-`<div class="customPopup"><h1>Fenlow</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Fenlow</h1><p>You have no information about this place yet...</p></div>`;
 
 const stonehelmPopup = 
-`<div class="customPopup"><h1>Stonehelm</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Stonehelm</h1><p>You have no information about this place yet...</p></div>`;
 
 const tyrwinnPopup = 
-`<div class="customPopup"><h1>Tyrwinn</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Tyrwinn</h1><p>You have no information about this place yet...</p></div>`;
 
 
 // Thynglad & The South Popups
 
 const branthollowPopup = 
-`<div class="customPopup"><h1>Branthollow</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Branthollow</h1><p>You have no information about this place yet...</p></div>`;
 
 const hrafngardPopup = 
-`<div class="customPopup"><h1>Hrafngard</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Hrafngard</h1><p>You have no information about this place yet...</p></div>`;
 
 const skrnsteadPopup = 
-`<div class="customPopup"><h1>Skrnstead</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Skrnstead</h1><p>You have no information about this place yet...</p></div>`;
 
 const hjallvikPopup = 
-`<div class="customPopup"><h1>Hjallvik</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Hjallvik</h1><p>You have no information about this place yet...</p></div>`;
 
 // Lendra & Pendrill's Gap Popups
 
 const brinhildsWatchPopup = 
-`<div class="customPopup"><h1>Brinhild's Watch</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Brinhild's Watch</h1><p>You have no information about this place yet...</p></div>`;
 
 const thorinsHoldPopup = 
-`<div class="customPopup"><h1>Thorin's Hold</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Thorin's Hold</h1><p>You have no information about this place yet...</p></div>`;
 
 const glorindorePopup = 
-`<div class="customPopup"><h1>Glorindore</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Glorindore</h1><p>You have no information about this place yet...</p></div>`;
 
 const pendrillsGapPopup = 
-`<div class="customPopup"><h1>Pendrill's Gap</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Pendrill's Gap</h1><p>You have no information about this place yet...</p></div>`;
 
 
 
 // Sijilmassa Popups
 
 const amanziNtsunduPopup = 
-`<div class="customPopup"><h1>Amanzi-ntsundu</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Amanzi-ntsundu</h1><p>You have no information about this place yet...</p></div>`;
 
 const sharifanHoldPopup = 
-`<div class="customPopup"><h1>Sharifan Hold</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Sharifan Hold</h1><p>You have no information about this place yet...</p></div>`;
 
 const azZahratPopup = 
-`<div class="customPopup"><h1>Az-Zharat</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Az-Zharat</h1><p>You have no information about this place yet...</p></div>`;
 
 const nubiraharPopup = 
-`<div class="customPopup"><h1>Nubirahar</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Nubirahar</h1><p>You have no information about this place yet...</p></div>`;
 
 const rashidaharPopup = 
-`<div class="customPopup"><h1>Rashidahar</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Rashidahar</h1><p>You have no information about this place yet...</p></div>`;
 
 const banuSalamanPopup = 
-`<div class="customPopup"><h1>Banu-Salaman</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Banu-Salaman</h1><p>You have no information about this place yet...</p></div>`;
 
 const abuFayadahPopup = 
-`<div class="customPopup"><h1>Abu-Fayadah</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Abu-Fayadah</h1><p>You have no information about this place yet...</p></div>`;
 
 const alKhazadPopup = 
-`<div class="customPopup"><h1>Al-Khazad</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Al-Khazad</h1><p>You have no information about this place yet...</p></div>`;
 
 const tetuoacemPopup = 
-`<div class="customPopup"><h1>Tetuoacem</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Tetuoacem</h1><p>You have no information about this place yet...</p></div>`;
 
 const adDamaliPopup = 
-`<div class="customPopup"><h1>Ad Damali</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Ad Damali</h1><p>You have no information about this place yet...</p></div>`;
 
 const kasbahAlQadimPopup = 
-`<div class="customPopup"><h1>Kasbah Al-Qadim</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Kasbah Al-Qadim</h1><p>You have no information about this place yet...</p></div>`;
 
 const qasrAlMarrPopup = 
-`<div class="customPopup"><h1>Qasr Al-Marr</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Qasr Al-Marr</h1><p>You have no information about this place yet...</p></div>`;
 
 const alMuradPopup = 
-`<div class="customPopup"><h1>Al-Murad</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Al-Murad</h1><p>You have no information about this place yet...</p></div>`;
 
 const salamaharPopup = 
-`<div class="customPopup"><h1>Salamahar</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Salamahar</h1><p>You have no information about this place yet...</p></div>`;
 
 const nurwadPopup = 
-`<div class="customPopup"><h1>Nurwad</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Nurwad</h1><p>You have no information about this place yet...</p></div>`;
 
 const emurAlBinPopup = 
-`<div class="customPopup"><h1>Emur Al-Bin</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Emur Al-Bin</h1><p>You have no information about this place yet...</p></div>`;
 
 const hassanahPopup = 
-`<div class="customPopup"><h1>Hassanah</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Hassanah</h1><p>You have no information about this place yet...</p></div>`;
 
 const kharizQalAtPopup = 
-`<div class="customPopup"><h1>Khariz-Qal'at</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Khariz-Qal'at</h1><p>You have no information about this place yet...</p></div>`;
 
 const qasrulNurPopup = 
-`<div class="customPopup"><h1>Qasrul-Nur</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Qasrul-Nur</h1><p>You have no information about this place yet...</p></div>`;
 
 const zharabadPopup = 
-`<div class="customPopup"><h1>Zharabad</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Zharabad</h1><p>You have no information about this place yet...</p></div>`;
 
 const alMiskPopup = 
-`<div class="customPopup"><h1>Al-Misk</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Al-Misk</h1><p>You have no information about this place yet...</p></div>`;
 
 const rahmahqanPopup = 
-`<div class="customPopup"><h1>Rahmahqan</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Rahmahqan</h1><p>You have no information about this place yet...</p></div>`;
 
 const tzindarPopup = 
-`<div class="customPopup"><h1>Tzindar</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Tzindar</h1><p>You have no information about this place yet...</p></div>`;
 
 
 // The Northfold Popups
 
 const deepdalePopup = 
-`<div class="customPopup"><h1>Deepdale</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Deepdale</h1><p>You have no information about this place yet...</p></div>`;
 
 const carstonUponShorePopup = 
-`<div class="customPopup"><h1>Carston-upon-shore</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Carston-upon-shore</h1><p>You have no information about this place yet...</p></div>`;
 
 const dragonsRestPopup = 
-`<div class="customPopup"><h1>Dragon's Rest</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Dragon's Rest</h1><p>You have no information about this place yet...</p></div>`;
 
 const keuzPopup = 
-`<div class="customPopup"><h1>Keuz</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Keuz</h1><p>You have no information about this place yet...</p></div>`;
 
 const eldremarHarborPopup = 
-`<div class="customPopup"><h1>Eldremar Hold</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Eldremar Hold</h1><p>You have no information about this place yet...</p></div>`;
 
 const sallysOrchardPopup = 
-`<div class="customPopup"><h1>Sally's Orchard</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Sally's Orchard</h1><p>You have no information about this place yet...</p></div>`;
 
 const highfieldPopup = 
-`<div class="customPopup"><h1>Highfield</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Highfield</h1><p>You have no information about this place yet...</p></div>`;
 
 const brynhavenPopup = 
-`<div class="customPopup"><h1>Brynhaven</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Brynhaven</h1><p>You have no information about this place yet...</p></div>`;
 
 const eldoriaPopup = 
-`<div class="customPopup"><h1>Eldoria</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Eldoria</h1><p>You have no information about this place yet...</p></div>`;
 
 const redbayPopup = 
-`<div class="customPopup"><h1>Redbay</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Redbay</h1><p>You have no information about this place yet...</p></div>`;
 
 const theJunctionPopup = 
-`<div class="customPopup"><h1>The Junction</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>The Junction</h1><p>You have no information about this place yet...</p></div>`;
 
 const longbowPopup = 
-`<div class="customPopup"><h1>Longbow</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Longbow</h1><p>You have no information about this place yet...</p></div>`;
 
 const sentinelsCreekPopup = 
-`<div class="customPopup"><h1>Sentinel's Creek</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Sentinel's Creek</h1><p>You have no information about this place yet...</p></div>`;
 
 const windvalePopup = 
-`<div class="customPopup"><h1>Windvale</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Windvale</h1><p>You have no information about this place yet...</p></div>`;
 
 const theBulwarkPopup = 
-`<div class="customPopup"><h1>The Bulwark</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>The Bulwark</h1><p>You have no information about this place yet...</p></div>`;
 
 const koromePopup = 
-`<div class="customPopup"><h1>Korome</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Korome</h1><p>You have no information about this place yet...</p></div>`;
 
 const glenArborPopup = 
-`<div class="customPopup"><h1>Glen Arbor</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Glen Arbor</h1><p>You have no information about this place yet...</p></div>`;
 
 const mythwealdHollowPopup = 
-`<div class="customPopup"><h1>Mythweald Hollow</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Mythweald Hollow</h1><p>You have no information about this place yet...</p></div>`;
 
 const hamePopup = 
-`<div class="customPopup"><h1>Hame</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Hame</h1><p>You have no information about this place yet...</p></div>`;
 
 const stillwoodPopup = 
-`<div class="customPopup"><h1>Stillwood</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Stillwood</h1><p>You have no information about this place yet...</p></div>`;
 
 const gullPointePopup = 
-`<div class="customPopup"><h1>Gull Pointe</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Gull Pointe</h1><p>You have no information about this place yet...</p></div>`;
 
 const longmeadowsPopup = 
-`<div class="customPopup"><h1>Longmeadows</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Longmeadows</h1><p>You have no information about this place yet...</p></div>`;
 
 const doranBayPopup = 
-`<div class="customPopup"><h1>Doran Bay</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Doran Bay</h1><p>You have no information about this place yet...</p></div>`;
 
 const everreachPopup = 
-`<div class="customPopup"><h1>Everreach</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Everreach</h1><p>You have no information about this place yet...</p></div>`;
 
 const thistlewicksLandingPopup = 
-`<div class="customPopup"><h1>Thistlewick's Landing</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Thistlewick's Landing</h1><p>You have no information about this place yet...</p></div>`;
 
 
 
 // Llyandros Popups
 
 const redcliffPopup = 
-`<div class="customPopup"><h1>Redcliff</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Redcliff</h1><p>You have no information about this place yet...</p></div>`;
 
 const emberdalePopup = 
-`<div class="customPopup"><h1>Emberdale</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Emberdale</h1><p>You have no information about this place yet...</p></div>`;
 
 const greenhillPopup = 
-`<div class="customPopup"><h1>Greenhill</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Greenhill</h1><p>You have no information about this place yet...</p></div>`;
 
 const blackmoorPopup = 
-`<div class="customPopup"><h1>Blackmoor</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Blackmoor</h1><p>You have no information about this place yet...</p></div>`;
 
 const eldradorPopup = 
-`<div class="customPopup"><h1>Eldrador</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Eldrador</h1><p>You have no information about this place yet...</p></div>`;
 
 const whitethornePopup = 
-`<div class="customPopup"><h1>Whitethorne</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Whitethorne</h1><p>You have no information about this place yet...</p></div>`;
 
 const silvermistPopup = 
-`<div class="customPopup"><h1>Silvermist</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Silvermist</h1><p>You have no information about this place yet...</p></div>`;
 
 const thronfordPopup = 
-`<div class="customPopup"><h1>Thronford</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Thronford</h1><p>You have no information about this place yet...</p></div>`;
 
 const eldhamPopup = 
-`<div class="customPopup"><h1>Eldham</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Eldham</h1><p>You have no information about this place yet...</p></div>`;
 
 const thunderfallPopup = 
-`<div class="customPopup"><h1>Thunderfall</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Thunderfall</h1><p>You have no information about this place yet...</p></div>`;
 
 const theSpirePopup = 
-`<div class="customPopup"><h1>The Spire</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>The Spire</h1><p>You have no information about this place yet...</p></div>`;
 
 const lillycrossPopup = 
-`<div class="customPopup"><h1>Lillycross</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Lillycross</h1><p>You have no information about this place yet...</p></div>`;
 
 const hilltopPopup = 
-`<div class="customPopup"><h1>Hilltop</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Hilltop</h1><p>You have no information about this place yet...</p></div>`;
 
 const starlightsHollowPopup = 
-`<div class="customPopup"><h1>Starlight's Hollow</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Starlight's Hollow</h1><p>You have no information about this place yet...</p></div>`;
 
 const ivorycliffePopup = 
-`<div class="customPopup"><h1>Ivorycliffe</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Ivorycliffe</h1><p>You have no information about this place yet...</p></div>`;
 
 const whalehornPopup = 
-`<div class="customPopup"><h1>Whalehorn</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Whalehorn</h1><p>You have no information about this place yet...</p></div>`;
 
 const rogueyardPopup = 
-`<div class="customPopup"><h1>Rogueyard</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Rogueyard</h1><p>You have no information about this place yet...</p></div>`;
 
 const stCresthillPopup = 
-`<div class="customPopup"><h1>St. Cresthill</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>St. Cresthill</h1><p>You have no information about this place yet...</p></div>`;
 
 const shipsHavenPopup = 
-`<div class="customPopup"><h1>Ship's Haven</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Ship's Haven</h1><p>You have no information about this place yet...</p></div>`;
 
 const theThirstPopup = 
-`<div class="customPopup"><h1>The Thirst</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>The Thirst</h1><p>You have no information about this place yet...</p></div>`;
 
 const rivermouthPopup = 
-`<div class="customPopup"><h1>Rivermouth</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Rivermouth</h1><p>You have no information about this place yet...</p></div>`;
 
 const abandonementPopup = 
-`<div class="customPopup"><h1>Abandonement</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Abandonement</h1><p>You have no information about this place yet...</p></div>`;
 
 const glimerdeepPopup = 
-`<div class="customPopup"><h1>Glimmerdeep</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Glimmerdeep</h1><p>You have no information about this place yet...</p></div>`;
 
 const whisperingBluffsPopup = 
-`<div class="customPopup"><h1>Whispering Bluff's</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Whispering Bluff's</h1><p>You have no information about this place yet...</p></div>`;
 
 const brooksidePopup = 
-`<div class="customPopup"><h1>Brookside</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Brookside</h1><p>You have no information about this place yet...</p></div>`;
 
 const runewoodPopup = 
-`<div class="customPopup"><h1>Runewood</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Runewood</h1><p>You have no information about this place yet...</p></div>`;
 
 const mossbrookPopup = 
-`<div class="customPopup"><h1>Mossbrook</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Mossbrook</h1><p>You have no information about this place yet...</p></div>`;
 
 const amberfangHoldPopup = 
-`<div class="customPopup"><h1>Amberfang Hold</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Amberfang Hold</h1><p>You have no information about this place yet...</p></div>`;
 
 const caerlechPopup = 
-`<div class="customPopup"><h1>Caerlech</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Caerlech</h1><p>You have no information about this place yet...</p></div>`;
 
 const willowbrookPopup = 
-`<div class="customPopup"><h1>Willowbrook</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Willowbrook</h1><p>You have no information about this place yet...</p></div>`;
 
 const dawnbreakPopup = 
-`<div class="customPopup"><h1>Dawnbreak</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Dawnbreak</h1><p>You have no information about this place yet...</p></div>`;
 
 const yhaEntheasPopup = 
-`<div class="customPopup"><h1>Yha Entheas</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Yha Entheas</h1><p>You have no information about this place yet...</p></div>`;
 
 const briarsteadPopup = 
-`<div class="customPopup"><h1>Briarstead</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Briarstead</h1><p>You have no information about this place yet...</p></div>`;
 
 const glimmerbrookPopup = 
-`<div class="customPopup"><h1>Glimmerbrook</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Glimmerbrook</h1><p>You have no information about this place yet...</p></div>`;
 
 const brumPopup = 
-`<div class="customPopup"><h1>Brum</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Brum</h1><p>You have no information about this place yet...</p></div>`;
 
 const autumnrunPopup = 
-`<div class="customPopup"><h1>Autumnrun</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Autumnrun</h1><p>You have no information about this place yet...</p></div>`;
 
 const shadowglenPopup = 
-`<div class="customPopup"><h1>Shadowglen</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Shadowglen</h1><p>You have no information about this place yet...</p></div>`;
 
 const seersSquarePopup = 
-`<div class="customPopup"><h1>Seer's Square</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Seer's Square</h1><p>You have no information about this place yet...</p></div>`;
 
 const theForumPopup = 
-`<div class="customPopup"><h1>The Forum</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>The Forum</h1><p>You have no information about this place yet...</p></div>`;
 
 const githraedPopup = 
-`<div class="customPopup"><h1>Githraed</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Githraed</h1><p>You have no information about this place yet...</p></div>`;
 
 const highGavgonachPopup = 
-`<div class="customPopup"><h1>High Gavgonach</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>High Gavgonach</h1><p>You have no information about this place yet...</p></div>`;
 
 const ervelfirthPopup = 
-`<div class="customPopup"><h1>Ervelfirth</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Ervelfirth</h1><p>You have no information about this place yet...</p></div>`;
 
 const clomaHillPopup = 
-`<div class="customPopup"><h1>Cloma Hill</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Cloma Hill</h1><p>You have no information about this place yet...</p></div>`;
 
 const edwardsHeadPopup = 
-`<div class="customPopup"><h1>Edward's Head</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Edward's Head</h1><p>You have no information about this place yet...</p></div>`;
 
 const guildworthPopup = 
-`<div class="customPopup"><h1>Guildworth</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Guildworth</h1><p>You have no information about this place yet...</p></div>`;
 
 const wingentFieldPopup = 
-`<div class="customPopup"><h1>Wingent Field</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Wingent Field</h1><p>You have no information about this place yet...</p></div>`;
 
 const lynnsFollyPopup = 
-`<div class="customPopup"><h1>Lynn's Folly</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Lynn's Folly</h1><p>You have no information about this place yet...</p></div>`;
 
 const vyrlysGatePopup = 
-`<div class="customPopup"><h1>Vyrlysgate</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Vyrlysgate</h1><p>You have no information about this place yet...</p></div>`;
 
 const todeaFallsPopup = 
-`<div class="customPopup"><h1>Todea Falls</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Todea Falls</h1><p>You have no information about this place yet...</p></div>`;
 
 const rivermistPopup = 
-`<div class="customPopup"><h1>Rivermist</h1><p>You have no information about this place yet...</p></div>`;
+`<div class="customPopup" style="min-width:300px;"><h1>Rivermist</h1><p>You have no information about this place yet...</p></div>`;
 
 // specify popup options
 
